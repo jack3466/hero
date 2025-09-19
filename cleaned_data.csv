@@ -1,0 +1,77 @@
+Age,Gender,Education,Occupation,Household_Members,Own_2Wheeler,Current_2W_Type,Current_2W_Brand,Current_2W_Model,Ownership_Duration,Primary_Use,Monthly_KMs,Overall_Satisfaction,Rating_Price_Affordability,Rating_Fuel_Efficiency,Rating_Brand_Reputation,Rating_Design_Style,Rating_Engine_Performance,Rating_Advanced_Features,Rating_Comfort,Rating_Hero_After_Sales,Next_Purchase_Type,Importance_Made_In_India,Info_Source_Showroom,Info_Source_Online_Reviews,Info_Source_Company_Websites,Info_Source_Friends_Family,Info_Source_Social_Media,Info_Source_TV_Ads,Info_Source_Newspaper_Ads
+28,Male,Undergraduate,Salaried (Pvt),3,Yes,Motorcycle,Hero,Splendor Plus,3-5 years,Daily commute,501-1000 km,4,5,5,4,3,3,2,4,5,0,1,0,1,0,0,0,0,0
+35,Female,10th-12th,Homemaker,4,Yes,Scooter,Hero,Pleasure Plus,5-8 years,Errands/Daily chores,201-500 km,4,4,5,5,4,3,3,4,4,0,1,0,1,0,0,0,0,0
+42,Male,Undergraduate,Self-Employed,5,Yes,Motorcycle,Hero,HF Deluxe,5-8 years,Business/Commercial use,1001-1500 km,3,5,5,4,3,3,2,4,5,0,1,0,1,0,0,0,0,0
+22,Male,Below 10th,Student,6,Yes,Motorcycle,Hero,Splendor iSmart,1-3 years,Daily commute,201-500 km,3,4,5,4,3,3,2,4,4,0,1,0,1,0,0,0,0,0
+30,Female,Undergraduate,Salaried (Pvt),2,Yes,Scooter,TVS,Jupiter,3-5 years,Daily commute,501-1000 km,4,4,5,3,4,3,4,4,4,4,1,1,0,1,0,0,0,0
+48,Male,Postgraduate,Professional,3,Yes,Motorcycle,Royal Enfield,Classic 350,More than 8 years,Leisure/Rides,501-1000 km,5,3,2,5,5,5,4,4,3,2,1,1,0,1,0,0,0,0
+25,Male,Undergraduate,Self-Employed,2,Yes,Motorcycle,Hero,Xtreme 160R,1-3 years,Daily commute,501-1000 km,4,4,4,4,5,5,5,4,4,0,1,0,1,0,0,0,0,0
+38,Male,Undergraduate,Salaried (Pvt),4,Yes,Motorcycle,Bajaj,Pulsar 150,3-5 years,Daily commute,1001-1500 km,4,5,5,3,4,5,4,4,4,3,1,1,0,1,0,0,0,0
+29,Female,Undergraduate,Salaried (Pvt),3,Yes,Scooter,Hero,Destini 125,1-3 years,Errands/Daily chores,201-500 km,4,4,5,4,4,3,3,4,4,0,1,0,1,0,0,0,0,0
+55,Male,10th-12th,Farmer,5,Yes,Motorcycle,Hero,Splendor Pro,More than 8 years,Business/Commercial use,501-1000 km,3,5,5,5,3,3,2,4,5,0,0,0,1,0,0,0,0,0
+23,Male,Undergraduate,Student,2,Yes,Motorcycle,Hero,Xpulse 200,Less than 1 year,Leisure/Rides,501-1000 km,4,3,3,4,5,5,5,4,4,0,1,0,1,0,0,0,0,0
+40,Male,Undergraduate,Salaried (Govt),3,Yes,Motorcycle,Honda,CB Shine,3-5 years,Daily commute,501-1000 km,5,5,5,4,4,4,4,4,4,3,1,1,0,1,0,0,0,0
+26,Male,Undergraduate,Salaried (Pvt),2,Yes,Motorcycle,Hero,Glamour,1-3 years,Daily commute,501-1000 km,4,5,5,4,3,3,3,4,4,0,1,0,1,0,0,0,0,0
+50,Male,Undergraduate,Self-Employed,4,Yes,Motorcycle,Hero,Splendor Pro,More than 8 years,Business/Commercial use,501-1000 km,4,5,5,5,3,3,2,4,5,0,0,0,1,0,0,0,0,0
+27,Female,Undergraduate,Salaried (Pvt),2,Yes,Scooter,Honda,Activa,3-5 years,Daily commute,201-500 km,4,4,5,4,4,3,3,4,4,3,1,1,0,1,0,0,0,0
+45,Male,Undergraduate,Self-Employed,4,Yes,Motorcycle,TVS,Apache RTR 160,3-5 years,Daily commute,1001-1500 km,4,4,4,3,5,5,4,4,4,3,1,1,0,1,0,0,0,0
+31,Male,Undergraduate,Salaried (Pvt),3,Yes,Motorcycle,Hero,Super Splendor,Less than 1 year,Daily commute,501-1000 km,5,5,5,5,3,3,3,4,5,0,1,0,1,0,0,0,0,0
+24,Female,10th-12th,Homemaker,3,Yes,Scooter,Hero,Pleasure Plus,1-3 years,Daily commute,201-500 km,4,4,5,4,4,3,3,4,4,4,1,1,0,1,0,0,0,0
+39,Male,Undergraduate,Self-Employed,4,Yes,Motorcycle,Hero,HF Deluxe,3-5 years,Business/Commercial use,501-1000 km,3,5,5,4,3,3,2,4,5,0,1,0,1,0,0,0,0,0
+47,Male,Postgraduate,Professional,3,Yes,Motorcycle,Suzuki,Gixxer,5-8 years,Leisure/Rides,501-1000 km,5,3,2,5,5,5,4,4,3,2,1,1,0,1,0,0,0,0
+30,Male,Undergraduate,Salaried (Pvt),3,Yes,Motorcycle,Hero,Passion Pro,3-5 years,Daily commute,501-1000 km,4,5,5,4,3,3,3,4,5,0,1,0,1,0,0,0,0,0
+37,Female,10th-12th,Homemaker,4,Yes,Scooter,Hero,Maestro Edge,5-8 years,Errands/Daily chores,201-500 km,4,4,5,5,4,3,3,4,4,0,1,0,1,0,0,0,0,0
+44,Male,Undergraduate,Self-Employed,5,Yes,Motorcycle,Hero,Splendor Plus,5-8 years,Business/Commercial use,1001-1500 km,3,5,5,4,3,3,2,4,5,0,1,0,1,0,0,0,0,0
+33,Male,Undergraduate,Salaried (Pvt),3,Yes,Motorcycle,Hero,Splendor Plus,1-3 years,Daily commute,501-1000 km,4,5,5,4,3,3,2,4,5,0,1,0,1,0,0,0,0,0
+30,Female,Undergraduate,Salaried (Pvt),3,Yes,Scooter,Hero,Destini 125,1-3 years,Errands/Daily chores,201-500 km,4,4,5,4,4,3,3,4,4,0,1,0,1,0,0,0,0,0
+57,Male,10th-12th,Farmer,5,Yes,Motorcycle,Hero,HF Deluxe,More than 8 years,Business/Commercial use,501-1000 km,3,5,5,5,3,3,2,4,5,0,0,1,0,0,0,0,0,
+25,Male,Graduate,Salaried (Pvt),2,Yes,Motorcycle,Hero,Xtreme 160R,1-3 years,Leisure rides,201-500 km,4,4,4,4,4,4,3,4,3,1,1,1,0,0,1,0,0,0
+31,Female,Postgraduate,Professional,3,Yes,Scooter,Hero,Maestro Edge,3-5 years,Daily commute,501-1000 km,5,5,5,5,4,4,3,5,4,1,0,1,1,0,0,1,0,0
+19,Male,10th-12th,Student,5,Yes,Motorcycle,Hero,Passion Pro,<1 year,College commute,201-500 km,3,5,4,3,3,3,2,3,3,0,1,0,1,0,1,0,0,0
+45,Male,Undergraduate,Self-Employed,4,Yes,Motorcycle,Hero,Glamour,8-10 years,Business use,1001-1500 km,4,5,5,4,3,4,2,4,4,1,1,0,0,0,1,0,0,0
+29,Female,Graduate,Salaried (Govt),2,Yes,Scooter,Hero,Destini 125,1-3 years,Errands,201-500 km,4,4,5,4,4,3,3,4,4,1,0,1,0,1,0,0,0,0
+38,Male,Diploma,Technician,3,Yes,Motorcycle,Hero,Splendor iSmart,5-8 years,Daily commute,501-1000 km,4,5,5,4,3,3,2,4,5,1,1,0,0,1,0,0,0,0
+22,Female,Undergraduate,Student,4,Yes,Scooter,Hero,Pleasure+,1-3 years,College commute,201-500 km,3,4,4,3,4,3,2,4,3,0,0,1,0,1,0,0,0,0
+50,Male,Postgraduate,Business Owner,3,Yes,Motorcycle,Hero,Achiever,>10 years,Business use,>1500 km,3,4,4,4,3,3,2,3,3,1,0,0,0,1,0,0,1,0
+27,Male,Graduate,Salaried (Pvt),2,Yes,Motorcycle,Hero,Super Splendor,3-5 years,Office commute,501-1000 km,4,4,5,4,4,4,3,4,4,1,1,1,0,0,0,1,0,0
+41,Male,Undergraduate,Farmer,6,Yes,Motorcycle,Hero,HF Deluxe Eco,8-10 years,Agri transport,1001-1500 km,5,5,5,5,3,4,1,4,5,1,1,0,0,0,1,0,0,0
+23,Female,Graduate,Salaried (Pvt),2,Yes,Scooter,Hero,Maestro,1-3 years,Office commute,501-1000 km,4,4,5,4,5,4,3,5,4,1,0,1,1,0,0,0,0,0
+36,Male,Diploma,Delivery Agent,3,Yes,Motorcycle,Hero,Splendor Pro,3-5 years,Commercial use,>1500 km,3,5,5,4,2,3,1,3,4,1,1,0,0,1,0,0,0,0
+30,Male,Graduate,Salaried (Pvt),2,Yes,Motorcycle,Hero,Xpulse 200,1-3 years,Adventure touring,501-1000 km,5,4,3,4,5,5,4,4,4,1,0,1,1,0,0,1,0,0
+48,Female,Undergraduate,Teacher,4,Yes,Scooter,Hero,Pleasure+,5-8 years,School commute,201-500 km,4,5,5,5,4,3,2,4,4,1,0,0,0,1,0,0,0,0
+26,Male,Postgraduate,Doctor,2,Yes,Motorcycle,Hero,Karizma,<1 year,Leisure rides,201-500 km,4,3,3,4,5,4,4,4,3,1,0,1,1,0,0,1,0,0
+39,Male,10th-12th,Shopkeeper,5,Yes,Motorcycle,Hero,HF 100,>10 years,Goods transport,1001-1500 km,3,5,5,4,2,3,1,3,4,1,1,0,0,0,1,0,0,0
+44,Male,Undergraduate,Electrician,4,Yes,Motorcycle,Hero,Splendor Plus,8-10 years,Service calls,501-1000 km,4,5,5,4,3,3,2,4,5,1,1,0,0,1,0,0,0,0
+32,Female,Graduate,Bank Employee,2,Yes,Scooter,Hero,Maestro Edge 110,3-5 years,Office commute,501-1000 km,5,4,5,5,5,4,3,5,5,1,0,1,0,0,1,0,0,0
+21,Male,Student,College Student,4,Yes,Motorcycle,Hero,Passion Xpro,<1 year,Part-time delivery,201-500 km,3,4,4,3,4,3,3,3,3,0,1,0,1,0,1,0,0,0
+37,Female,Diploma,Anganwadi Worker,5,Yes,Scooter,Hero,Pleasure,5-8 years,Field visits,201-500 km,4,5,5,5,4,3,2,4,4,1,0,0,0,1,0,0,0,0
+28,Male,Graduate,Sales Executive,2,Yes,Motorcycle,Hero,Glamour FI,1-3 years,Sales visits,1001-1500 km,4,4,4,4,4,4,3,4,4,1,1,1,0,0,0,1,0,0
+47,Male,10th-12th,Driver,4,Yes,Motorcycle,Hero,HF Deluxe,>10 years,Family transport,501-1000 km,3,5,5,4,2,3,1,3,4,1,1,0,0,1,0,0,0,0
+34,Male,Graduate,Architect,2,Yes,Scooter,Hero,Maestro Edge 125,3-5 years,Site visits,501-1000 km,5,4,4,5,5,4,4,5,5,1,0,1,1,0,0,0,0,0
+26,Male,Graduate,Sales Rep,3,Yes,Motorcycle,Hero,Glamour,1-3 years,Office Commute,501-1000 km,4,4,5,4,4,4,3,4,4,1,1,1,0,0,1,0,0,0
+45,Male,10th-12th,Shopkeeper,5,Yes,Motorcycle,Hero,Splendor Deluxe,8-10 years,Goods Transport,1001-1500 km,5,5,5,5,3,4,2,4,5,1,1,0,0,1,0,0,0,0
+29,Female,Graduate,Teacher,2,Yes,Motorcycle,Hero,Glamour FI,3-5 years,School Commute,201-500 km,4,4,5,4,4,3,3,4,4,1,0,1,0,1,0,0,0,0
+32,Male,Diploma,Mechanic,4,Yes,Motorcycle,Hero,Splendor Pro,5-8 years,Work Commute,501-1000 km,4,5,5,4,3,3,2,4,4,1,1,0,0,1,0,0,0,0
+24,Male,Undergraduate,Student,4,Yes,Motorcycle,Hero,Glamour,<1 year,College Commute,201-500 km,3,4,4,3,4,3,2,3,3,0,1,0,1,0,1,0,0,0
+50,Male,Undergraduate,Farmer,6,Yes,Motorcycle,Hero,Splendor Deluxe,>10 years,Agri Use,>1500 km,5,5,5,5,3,4,1,4,5,1,1,0,0,0,1,0,0,0
+35,Female,10th-12th,Homemaker,4,Yes,Motorcycle,Hero,Glamour,5-8 years,Household Errands,201-500 km,4,5,5,4,4,3,2,4,4,1,0,0,0,1,0,0,0,0
+40,Male,Graduate,Govt Employee,3,Yes,Motorcycle,Hero,Splendor iSmart,8-10 years,Office Commute,501-1000 km,4,5,5,4,3,3,2,4,5,1,1,0,0,1,0,0,0,0
+22,Female,Undergraduate,Nurse,2,Yes,Motorcycle,Hero,Glamour FI,1-3 years,Hospital Commute,501-1000 km,4,4,5,4,5,4,3,5,4,1,0,1,0,1,0,0,0,0
+38,Male,Diploma,Electrician,3,Yes,Motorcycle,Hero,Splendor Deluxe,5-8 years,Service Calls,501-1000 km,4,5,5,4,3,3,2,4,4,1,1,0,0,1,0,0,0,0
+27,Male,Graduate,IT Professional,2,Yes,Motorcycle,Hero,Glamour,3-5 years,Office Commute,501-1000 km,4,4,4,4,4,4,3,4,4,1,0,1,1,0,0,1,0,0
+42,Male,Undergraduate,Delivery Agent,4,Yes,Motorcycle,Hero,Splendor Pro,3-5 years,Commercial Use,>1500 km,3,5,5,4,2,3,1,3,4,1,1,0,0,1,0,0,0,0
+31,Female,Graduate,Bank Clerk,2,Yes,Motorcycle,Hero,Glamour FI,1-3 years,Office Commute,201-500 km,5,4,5,5,5,4,3,5,5,1,0,1,0,0,1,0,0,0
+47,Male,10th-12th,Auto Driver,5,Yes,Motorcycle,Hero,Splendor Deluxe,>10 years,Family Transport,1001-1500 km,4,5,5,4,3,3,1,4,4,1,1,0,0,1,0,0,0,0
+25,Male,Graduate,Marketing Exec,2,Yes,Motorcycle,Hero,Glamour,<1 year,Work Commute,501-1000 km,4,4,4,4,5,4,3,4,4,1,0,1,1,0,0,1,0,0
+36,Female,Diploma,Anganwadi Worker,4,Yes,Motorcycle,Hero,Splendor iSmart,5-8 years,Field Visits,201-500 km,4,5,5,5,3,3,2,4,4,1,0,0,0,1,0,0,0,0
+28,Male,Undergraduate,Freelancer,3,Yes,Motorcycle,Hero,Glamour FI,1-3 years,Client Meetings,501-1000 km,4,4,4,4,4,4,3,4,4,1,1,1,0,0,0,1,0,0
+44,Male,Undergraduate,Carpenter,4,Yes,Motorcycle,Hero,Splendor Deluxe,8-10 years,Work Transport,501-1000 km,4,5,5,4,3,3,1,4,5,1,1,0,0,1,0,0,0,0
+30,Female,Graduate,Architect,2,Yes,Motorcycle,Hero,Glamour,3-5 years,Site Visits,501-1000 km,5,4,4,5,5,4,4,5,5,1,0,1,1,0,0,0,0,0
+39,Male,10th-12th,Grocery Owner,5,Yes,Motorcycle,Hero,Splendor Pro,5-8 years,Goods Delivery,1001-1500 km,3,5,5,4,2,3,1,3,4,1,1,0,0,1,0,0,0,0
+23,Male,Student,Part-time Worker,4,Yes,Motorcycle,Hero,Glamour,<1 year,College & Work,201-500 km,3,4,4,3,4,3,2,3,3,0,1,0,1,0,1,0,0,0
+33,Female,Graduate,Nurse,3,Yes,Motorcycle,Hero,Splendor iSmart,3-5 years,Hospital Duty,501-1000 km,4,5,5,4,3,3,2,4,4,1,0,1,0,1,0,0,0,0
+37,Male,Diploma,Plumber,4,Yes,Motorcycle,Hero,Glamour FI,5-8 years,Service Visits,501-1000 km,4,4,5,4,4,4,3,4,4,1,1,0,0,1,0,0,0,0
+46,Male,Undergraduate,Taxi Driver,4,Yes,Motorcycle,Hero,Splendor Deluxe,>10 years,Family & Work,1001-1500 km,4,5,5,4,3,3,1,4,4,1,1,0,0,1,0,0,0,0
+27,Female,Graduate,Bank Manager,2,Yes,Motorcycle,Hero,Glamour,1-3 years,Office Commute,501-1000 km,5,4,5,5,5,4,3,5,5,1,0,1,1,0,0,0,0,0
+41,Male,10th-12th,Factory Worker,5,Yes,Motorcycle,Hero,Splendor Pro,8-10 years,Work Commute,501-1000 km,4,5,5,4,3,3,1,4,5,1,1,0,0,1,0,0,0,0
+34,Male,Graduate,Sales Manager,3,Yes,Motorcycle,Hero,Glamour FI,3-5 years,Business Travel,1001-1500 km,4,4,4,4,4,4,3,4,4,1,0,1,0,0,1,0,0,0
